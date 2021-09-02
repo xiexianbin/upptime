@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1161,
-    "timeDay": 564,
-    "timeWeek": 1161,
-    "timeMonth": 1161,
-    "timeYear": 1161,
+    "time": 1068,
+    "timeDay": 600,
+    "timeWeek": 1068,
+    "timeMonth": 1068,
+    "timeYear": 1068,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/docs.xiexianbin.cn",
     "slug": "docs-xiexianbin-cn",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1049,
-    "timeDay": 773,
-    "timeWeek": 1049,
-    "timeMonth": 1049,
-    "timeYear": 1049,
-    "dailyMinutesDown": {
-      "2021-09-01": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 976,
+    "timeDay": 759,
+    "timeWeek": 976,
+    "timeMonth": 976,
+    "timeYear": 976,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.9958.xyz",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1612,
-    "timeDay": 1672,
-    "timeWeek": 1612,
-    "timeMonth": 1612,
-    "timeYear": 1612,
+    "time": 1631,
+    "timeDay": 1765,
+    "timeWeek": 1631,
+    "timeMonth": 1631,
+    "timeYear": 1631,
     "dailyMinutesDown": {}
   }
 ]
