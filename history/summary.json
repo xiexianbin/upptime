@@ -40,7 +40,7 @@
     "url": "https://www.9958.xyz",
     "icon": "https://favicons.githubusercontent.com/www.9958.xyz",
     "slug": "www-9958-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1554,
     "timeMonth": 1560,
     "timeYear": 1560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 0
+    }
   }
 ]
