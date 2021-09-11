@@ -7,8 +7,8 @@ sites:
     url: https://www.xiexianbin.cn
   - name: docs.xiexianbin.cn
     url: https://docs.xiexianbin.cn
-  - name: www.9958.xyz
-    url: https://www.9958.xyz
+  # - name: www.9958.xyz
+    # url: https://www.9958.xyz
 
 assignees: # Users to assign downtime issues (optional)
   - xiexianbin
@@ -16,8 +16,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.xiexianbin.cn
-  #baseUrl: /upptime
+  # cname: status.xiexianbin.cn
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/xiexianbin/upptime/master/assets/upptime-icon.svg
   name: Upptime
   introTitle: ""
