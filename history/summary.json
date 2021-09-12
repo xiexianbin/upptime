@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1738,
-    "timeDay": 1898,
-    "timeWeek": 2591,
-    "timeMonth": 1738,
-    "timeYear": 1738,
+    "time": 1678,
+    "timeDay": 778,
+    "timeWeek": 2580,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {}
   },
   {
@@ -28,36 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 809,
-    "timeWeek": 801,
-    "timeMonth": 840,
-    "timeYear": 840,
+    "time": 844,
+    "timeDay": 909,
+    "timeWeek": 724,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "www.9958.xyz",
-    "url": "https://www.9958.xyz",
-    "icon": "https://favicons.githubusercontent.com/www.9958.xyz",
-    "slug": "www-9958-xyz",
-    "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "82.00%",
-    "uptimeWeek": "89.79%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "94.91%",
-    "time": 2454,
-    "timeDay": 2812,
-    "timeWeek": 2566,
-    "timeMonth": 2454,
-    "timeYear": 2454,
-    "dailyMinutesDown": {
-      "2021-09-11": 7,
-      "2021-09-10": 253,
-      "2021-09-09": 276,
-      "2021-09-08": 275,
-      "2021-09-07": 154,
-      "2021-09-04": 64
-    }
   }
 ]
