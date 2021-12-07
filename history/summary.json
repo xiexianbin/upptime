@@ -4,10 +4,10 @@
     "url": "https://www.xiexianbin.cn",
     "icon": "https://favicons.githubusercontent.com/www.xiexianbin.cn",
     "slug": "www-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1009,
@@ -15,14 +15,16 @@
     "timeWeek": 778,
     "timeMonth": 839,
     "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-07": 1
+    }
   },
   {
     "name": "docs.xiexianbin.cn",
     "url": "https://docs.xiexianbin.cn",
     "icon": "https://favicons.githubusercontent.com/docs.xiexianbin.cn",
     "slug": "docs-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 1170,
     "timeYear": 1295,
     "dailyMinutesDown": {
+      "2021-12-07": 0,
       "2021-09-23": 32,
       "2021-09-21": 49
     }
