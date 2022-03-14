@@ -22,7 +22,7 @@
     "url": "https://docs.xiexianbin.cn",
     "icon": "https://favicons.githubusercontent.com/docs.xiexianbin.cn",
     "slug": "docs-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1123,
     "timeMonth": 1188,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   }
 ]
