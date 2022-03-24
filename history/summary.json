@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.xiexianbin.cn",
     "slug": "www-xiexianbin-cn",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 999,
-    "timeDay": 963,
-    "timeWeek": 928,
-    "timeMonth": 1139,
-    "timeYear": 999,
-    "dailyMinutesDown": {
-      "2022-03-16": 18
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1000,
+    "timeDay": 1037,
+    "timeWeek": 999,
+    "timeMonth": 1141,
+    "timeYear": 1000,
+    "dailyMinutesDown": {}
   },
   {
     "name": "docs.xiexianbin.cn",
@@ -25,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/docs.xiexianbin.cn",
     "slug": "docs-xiexianbin-cn",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 1121,
-    "timeDay": 746,
-    "timeWeek": 942,
-    "timeMonth": 1145,
-    "timeYear": 1121,
-    "dailyMinutesDown": {
-      "2022-03-16": 17
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1129,
+    "timeDay": 2844,
+    "timeWeek": 1213,
+    "timeMonth": 1199,
+    "timeYear": 1129,
+    "dailyMinutesDown": {}
   }
 ]
