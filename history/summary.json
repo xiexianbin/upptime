@@ -4,19 +4,19 @@
     "url": "https://www.xiexianbin.cn",
     "icon": "https://favicons.githubusercontent.com/www.xiexianbin.cn",
     "slug": "www-xiexianbin-cn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 962,
-    "timeDay": 587,
-    "timeWeek": 734,
-    "timeMonth": 815,
-    "timeYear": 962,
+    "time": 965,
+    "timeDay": 1230,
+    "timeWeek": 876,
+    "timeMonth": 847,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2022-07-26": 0
+      "2022-07-26": 17
     }
   },
   {
