@@ -4,18 +4,20 @@
     "url": "https://www.xiexianbin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiexianbin.cn.ico",
     "slug": "www-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1357,
-    "timeDay": 983,
-    "timeWeek": 1210,
-    "timeMonth": 1325,
-    "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "time": 1381,
+    "timeDay": 6745,
+    "timeWeek": 2622,
+    "timeMonth": 1674,
+    "timeYear": 1515,
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   },
   {
     "name": "docs.xiexianbin.cn",
