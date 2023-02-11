@@ -4,9 +4,9 @@
     "url": "https://www.xiexianbin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiexianbin.cn.ico",
     "slug": "www-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3473,
     "timeYear": 1723,
     "dailyMinutesDown": {
+      "2023-02-11": 0,
       "2023-01-24": 17
     }
   },
