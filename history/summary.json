@@ -28,9 +28,9 @@
     "slug": "docs-xiexianbin-cn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1458,
     "timeDay": 2972,
@@ -38,7 +38,7 @@
     "timeMonth": 2092,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2023-02-13": 25
+      "2023-02-13": 17
     }
   }
 ]
