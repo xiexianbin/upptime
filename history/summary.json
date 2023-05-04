@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1544,
-    "timeDay": 1989,
-    "timeWeek": 1568,
-    "timeMonth": 1220,
+    "time": 1545,
+    "timeDay": 933,
+    "timeWeek": 1271,
+    "timeMonth": 1225,
     "timeYear": 1807,
     "dailyMinutesDown": {}
   },
@@ -23,20 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.xiexianbin.cn.ico",
     "slug": "docs-xiexianbin-cn",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1545,
-    "timeDay": 5088,
-    "timeWeek": 3881,
-    "timeMonth": 1879,
+    "uptimeYear": "100.00%",
+    "time": 1543,
+    "timeDay": 997,
+    "timeWeek": 1896,
+    "timeMonth": 1891,
     "timeYear": 1813,
-    "dailyMinutesDown": {
-      "2023-03-23": 18,
-      "2023-03-20": 16,
-      "2023-03-13": 22
-    }
+    "dailyMinutesDown": {}
   }
 ]
