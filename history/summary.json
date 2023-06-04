@@ -6,18 +6,16 @@
     "slug": "www-xiexianbin-cn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1571,
-    "timeDay": 1073,
+    "timeDay": 745,
     "timeWeek": 1047,
-    "timeMonth": 1343,
-    "timeYear": 1845,
-    "dailyMinutesDown": {
-      "2023-06-03": 8
-    }
+    "timeMonth": 1333,
+    "timeYear": 1842,
+    "dailyMinutesDown": {}
   },
   {
     "name": "docs.xiexianbin.cn",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1592,
-    "timeDay": 1289,
-    "timeWeek": 2615,
-    "timeMonth": 2109,
-    "timeYear": 1910,
+    "time": 1600,
+    "timeDay": 5080,
+    "timeWeek": 2432,
+    "timeMonth": 2241,
+    "timeYear": 1921,
     "dailyMinutesDown": {}
   }
 ]
