@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1568,
-    "timeDay": 594,
-    "timeWeek": 764,
-    "timeMonth": 980,
-    "timeYear": 1848,
+    "time": 1571,
+    "timeDay": 2306,
+    "timeWeek": 952,
+    "timeMonth": 1025,
+    "timeYear": 1852,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "docs-xiexianbin-cn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1621,
-    "timeDay": 3138,
-    "timeWeek": 1424,
-    "timeMonth": 2226,
+    "timeDay": 3283,
+    "timeWeek": 1440,
+    "timeMonth": 2223,
     "timeYear": 1950,
-    "dailyMinutesDown": {
-      "2023-06-18": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
