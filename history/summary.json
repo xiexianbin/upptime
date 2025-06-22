@@ -6,17 +6,17 @@
     "slug": "www-xiexianbin-cn",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1750,
     "timeDay": 2028,
     "timeWeek": 1908,
     "timeMonth": 1952,
-    "timeYear": 1894,
+    "timeYear": 1893,
     "dailyMinutesDown": {
-      "2025-06-22": 0
+      "2025-06-22": 18
     }
   },
   {
