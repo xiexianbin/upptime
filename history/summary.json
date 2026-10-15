@@ -4,13 +4,13 @@
     "url": "https://www.xiexianbin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiexianbin.cn.ico",
     "slug": "www-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "96.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "81.55%",
-    "time": 2127,
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "81.54%",
+    "time": 2126,
     "timeDay": 2420,
     "timeWeek": 2098,
     "timeMonth": 2294,
@@ -88,7 +88,8 @@
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
-      "2026-07-18": 856
+      "2026-07-18": 856,
+      "2026-10-15": 5
     }
   },
   {
@@ -96,9 +97,9 @@
     "url": "https://docs.xiexianbin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/docs.xiexianbin.cn.ico",
     "slug": "docs-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "96.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "81.55%",
@@ -179,7 +180,8 @@
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
-      "2026-07-18": 856
+      "2026-07-18": 856,
+      "2026-10-15": 0
     }
   }
 ]
