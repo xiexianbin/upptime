@@ -96,9 +96,9 @@
     "url": "https://docs.xiexianbin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/docs.xiexianbin.cn.ico",
     "slug": "docs-xiexianbin-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "96.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "81.73%",
@@ -179,7 +179,8 @@
       "2026-07-19": 1440,
       "2026-07-18": 856,
       "2026-10-16": 759,
-      "2026-10-15": 123
+      "2026-10-15": 123,
+      "2026-11-08": 0
     }
   }
 ]
